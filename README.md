@@ -1,3 +1,3 @@
 # MicroServices in Go
 
-With Encryption
+With Encryption and endpoints
